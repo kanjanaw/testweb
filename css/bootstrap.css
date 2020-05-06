@@ -10,6 +10,21 @@
     display: inline-block;
 }
 
+.pad {
+    margin-top: 12vh;
+    margin-bottom: 2vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+}
+
+.format {
+    font-family: 'Pridi', serif;
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.7;
+    color: #202224;
+}
+
 hr.line1 {
     border-top: 2px solid #7FB6A1;
 }
@@ -187,6 +202,10 @@ a.mainmenu {
 
 .bg-blue {
     background-color: #55D9D6 !important;
+}
+
+.bg-light-blue {
+    background-color: #ECF6F5 !important;
 }
 
 .border-blue {
